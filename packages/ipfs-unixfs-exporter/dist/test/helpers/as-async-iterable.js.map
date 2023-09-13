@@ -1,0 +1,1 @@
+{"version":3,"file":"as-async-iterable.js","sourceRoot":"","sources":["../../../test/helpers/as-async-iterable.ts"],"names":[],"mappings":"AAAA,KAAK,SAAU,CAAC,CAAC,eAAe,CAAE,GAA8B;IAC9D,IAAI,CAAC,KAAK,CAAC,OAAO,CAAC,GAAG,CAAC,EAAE;QACvB,GAAG,GAAG,CAAC,GAAG,CAAC,CAAA;KACZ;IAED,KAAM,CAAC,CAAC,GAAG,CAAA;AACb,CAAC;AAED,eAAe,eAAe,CAAA"}
